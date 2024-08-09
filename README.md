@@ -1,6 +1,8 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Brandon!
 🔭 I'm currently working on my Bachelor's Degree in Computer Science
 
+## My website:
+https://bjtnoguera.com/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brandon-jose-tenorio-noguera/) 
