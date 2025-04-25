@@ -2,7 +2,7 @@
 🔭 I'm currently working on my Bachelor's Degree in Computer Science
 
 ## My website:
-https://bjtnoguera.com/
+https://bjtn.me/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-jose-tenorio-noguera/) 
